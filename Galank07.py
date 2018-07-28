@@ -25,7 +25,7 @@ botStart = time.time()
 # Add me [ID LINE] http://line.me/ti/p/%40ryp6149l
 
 #Galank = LINE()
-Galank = LINE("TOKENMU BEB")
+Galank = LINE("Evx7aX9igmrbbAvCoIMf.K9hUseF6j4f/WE5DLTHHBW.8cu6k4noj/VDblh9ro6rb5cE7Lxj0F4j3Pqy76h35ME=")
 #Galank = LINE("Email","Password")
 #Galank = LINE()
 Galank.log("Auth Token : " + str(Galank.authToken))
